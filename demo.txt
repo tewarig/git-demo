@@ -1,1 +1,3 @@
 this is a demo file to show changes in git
+now we will do changes from the github terminal and will fetch this later. 
+this message is written from the developer branch :) hope this get merge
